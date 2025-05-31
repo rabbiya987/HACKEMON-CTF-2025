@@ -1,7 +1,0 @@
-Perspective Shift: 
-AUTHOR:RABIA ISHTIAQ 
-LEVEL:Medium 
-FLAG:ACM{JU$T_@_ST@RT} 
-DESCRIPTION: "Sometimes, it's better to take a step back" 
-
-In this challenge, things may not be as they seem at first glance. Pay attention to details, analyze the data carefully, and think creatively. The key could be hidden in plain sight, or maybe a simple adjustment will reveal what you're looking for. Stay curious, experiment with different approaches, and remember—sometimes, scaling down leads to seeing more.
