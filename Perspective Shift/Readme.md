@@ -22,7 +22,7 @@ Players were given an image file that appeared completely **normal or broken** w
 
 ### 🕵️‍♀️ The Twist?
 
-The original image was a **2K resolution JPEG**, but the **header was manipulated**, altering its resolution metadata and affecting how the image rendered.
+The original image was a **2K resolution JPG**, but the **header was manipulated**, altering its resolution metadata and affecting how the image rendered.
 
 ---
 
