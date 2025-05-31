@@ -1,4 +1,7 @@
-# 🕵️‍♀️ Decrypting Layers: Solving the “ONION” CTF Challenge
+# 🕵️‍♀️ Decrypting Layers:“ONION” CTF Challenge
+
+**Category:** CRYPTO | **Difficulty:** Easy
+**Author:** Rabia Ishtiaq
 
 Let me walk you through how to solve it step-by-step — all using online tools.
 
@@ -6,9 +9,7 @@ Let me walk you through how to solve it step-by-step — all using online tools.
 
 You’re given a mysterious encrypted message. No clue, no hints — just a note saying:
 
-> "This message has been encrypted through **three layers**:
-> First **Base64**, then **Base92**, and finally **Binary**.
-> Your job? Decrypt it step by step and retrieve the hidden flag."
+>Buried beneath layers of secrecy lies the truth. Like peeling an onion, each layer reveals another puzzle, another cipher another barrier between you and the flag. 
 
 Here’s the encrypted message (yes, it’s long — don’t panic):
 
