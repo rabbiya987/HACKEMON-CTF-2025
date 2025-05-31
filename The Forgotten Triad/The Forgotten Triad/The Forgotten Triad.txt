@@ -1,0 +1,16 @@
+NAME: The Forgotten Triad
+CATEGORY: OSINT
+DIFFICULTY: Hard
+AUTHOR: RABIA ISHTIAQ
+
+Description: 📜 Mystery Clue:
+
+"Hidden high where the gods can see, I whisper through empty eyes.
+My builders never carved their words, but their walls speak in silence.
+A refuge above the clouds, untouched by the enemy’s greed.
+One man’s journey in 1911 rewrote my fate, but was I truly his to find?
+Count my openings, and you shall see the forgotten passage of time."
+
+Can you name this place???Sometimes, you are closer than you think
+
+FLAG:ACM{TEMPLE_OF_THREE_WINDOWS}
